@@ -1,0 +1,5 @@
+package DesignPatttern.FactoryPattern;
+
+public abstract class Computer {
+
+}
