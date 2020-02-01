@@ -7,5 +7,5 @@ public class TestFactory {
 		System.out.println("Factory PC connfig: " + pc);
 		System.out.println("Factory Server config: " + server);
 	}
-
+	
 }

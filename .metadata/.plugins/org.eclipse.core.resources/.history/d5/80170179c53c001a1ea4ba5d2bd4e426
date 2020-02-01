@@ -1,5 +1,0 @@
-package FactoryPattern.copy;
-
-public abstract class Computer {
-
-}

@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=Self-Training/src&lt;dependencyJnjection{AbstractDAO.java[AbstractDAO" modifiers="513" timestamp="1579665213726"/>
+<typeInfo handle="=Self-Training/src&lt;dependency{Service.java[Service" modifiers="513" timestamp="1579795661030"/>
+<typeInfo handle="=SpringDependencyInjectionAnnotations/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.huytran{Service.java[Service" modifiers="513" timestamp="1580313506481"/>
+<typeInfo handle="=SpringDependencyInjectionJavaConfig/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.huytran{Client.java[Client" modifiers="513" timestamp="1580379998851"/>
+<typeInfo handle="=SpringDependencyInjectionJavaConfig/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.huytran{Service.java[Service" modifiers="513" timestamp="1580380117548"/>
 </typeInfoHistroy>

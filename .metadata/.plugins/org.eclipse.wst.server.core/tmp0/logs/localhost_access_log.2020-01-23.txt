@@ -14,3 +14,8 @@
 127.0.0.1 - - [23/Jan/2020:21:21:16 +0700] "GET / HTTP/1.1" 404 709
 127.0.0.1 - - [23/Jan/2020:21:21:17 +0700] "GET /spring-mvc/ HTTP/1.1" 200 311
 127.0.0.1 - - [23/Jan/2020:21:21:21 +0700] "GET /ContactManager/ HTTP/1.1" 200 1125
+127.0.0.1 - - [23/Jan/2020:21:47:08 +0700] "GET /ContactManager/new HTTP/1.1" 200 838
+127.0.0.1 - - [23/Jan/2020:21:47:14 +0700] "POST /ContactManager/save HTTP/1.1" 302 -
+127.0.0.1 - - [23/Jan/2020:21:47:14 +0700] "GET /ContactManager/ HTTP/1.1" 200 1328
+127.0.0.1 - - [23/Jan/2020:21:47:16 +0700] "GET /ContactManager/delete?id=5 HTTP/1.1" 302 -
+127.0.0.1 - - [23/Jan/2020:21:47:16 +0700] "GET /ContactManager/ HTTP/1.1" 200 1125
